@@ -1,0 +1,33 @@
+# Build outputs
+Debug/
+
+# IDE settings
+.settings/
+.ads/
+*.launch
+
+# Temporary files
+删除临时文件.bat
+AURIX修改工程名称.bat
+
+# Compiled binaries
+*.o
+*.elf
+*.hex
+*.map
+*.mdf
+*.d
+*.src
+*.a
+*.xgrf
+*.xjrf
+*.xqrf
+*.Progress.log
+*.opt
+
+# TASKING compiler artifacts
+TASKING_C_C___Compiler-Include_paths__-I_.opt
+cc29292a
+
+# Eclipse project files (keep .cproject and .project)
+*.OneEye
